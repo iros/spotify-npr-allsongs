@@ -1,0 +1,16 @@
+{
+    "BundleType": "Application",
+    "AppIcon": {
+        "36x18": "tutorial.png"
+    },
+    "AppName": {
+        "en": "npr"
+    },
+    "SupportedLanguages": [
+        "en"
+    ],
+    "RequiredPermissions": [
+        "http://api.npr.org",
+        "http://media.npr.org"
+    ]
+}
