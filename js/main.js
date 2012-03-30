@@ -122,7 +122,7 @@ function init() {
   var e = new EpisodeCollection();
   e.fetch({
     success : function() {
-      var episodeView = new EpisodeView({ el :'.episodeInfo', model : e.models[1] });
+      var episodeView = new EpisodeView({ el :'.episodeInfo', model : e.models[0] });
       console.log(e.models);
       episodeView.render();
     }
