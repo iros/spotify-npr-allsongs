@@ -1,4 +1,5 @@
 {
+    "BundleIdentifier": "npr",
     "BundleType": "Application",
     "AppIcon": {
         "36x18": "tutorial.png"
