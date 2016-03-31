@@ -1,4 +1,8 @@
-# Spotify NPR All Songs Considered Sample app
+# Deprecated!
+
+Spotify no longer has apps in desktop client. Let this be a little piece of history.
+
+### Spotify NPR All Songs Considered Sample app
 
 ## Installation
 1. Open Terminal, `mkdir ~/Spotify`
